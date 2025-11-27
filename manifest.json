@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "version": "1.2",
+  "name": "Tema Negro con Inactivo Gris Sutil",
+  "theme": {
+    "colors": {
+      "frame": [
+        0,
+        0,
+        0
+      ],
+      "toolbar": [
+        0,
+        0,
+        0
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "bookmark_text": [
+        255,
+        255,
+        255
+      ],
+      "frame_inactive": [
+        5,
+        5,
+        5
+      ],
+      "toolbar_inactive": [
+        5,
+        5,
+        5
+      ]
+    }
+  }
+}
