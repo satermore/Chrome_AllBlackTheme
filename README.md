@@ -1,4 +1,4 @@
-##ALLBALCK THEME FOR CHROMIUM
+## ALLBALCK THEME FOR CHROMIUM
 
 A sleek dark theme for Chrome and Brave, featuring a fully black interface with inactive windows in gray. Designed to enhance window movement with the mouse while keeping the browser visually clean and easy on the eyes.
 
